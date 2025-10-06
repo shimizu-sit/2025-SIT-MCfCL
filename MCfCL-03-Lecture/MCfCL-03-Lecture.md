@@ -44,7 +44,7 @@ footer: Middle class of Computer Literacy | T.Shimizu © 2025
 
 # 準備（ファイル）
 
-* フォルダ：`CL_Apply/03_equation`
+* Moodleから`03_Equation.docx`をダウンロード
 * **ファイル名**：`学籍番号_氏名_03_Equation.docx`
 * 保存はこまめに：**Ctrl+S**（Mac：**⌘S**）
 
