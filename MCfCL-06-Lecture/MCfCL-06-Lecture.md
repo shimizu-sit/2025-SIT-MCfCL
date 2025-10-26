@@ -193,10 +193,48 @@ footer: Middle class of Computer Literacy | T.Shimizu © 2025
   `=COUNTIF(B2:B11, ">="&$B$1)`
 * 例3：文字一致（出席）
   `=COUNTIF(C2:C11, "出席")`
-* 例4：ワイルドカード（含む）
-  `=COUNTIF(D2:D11, "*提出*")`（「提出」を含む）
 
 > 比較は **`">=60"`** のように**文字列**で書く／セル参照をつなぐときは **`&`** を使う。
+
+---
+
+<!-- _class: no-footer -->
+
+# COUNTIF（条件で数える）
+
+**書式**：`=COUNTIF(範囲, 条件)`
+
+* 例1：60点以上の人数
+  `=COUNTIF(B2:B11, ">=60")`
+
+![w:800](./img/fig-09.png)
+
+---
+
+<!-- _class: no-footer -->
+
+# COUNTIF（条件で数える）
+
+**書式**：`=COUNTIF(範囲, 条件)`
+
+* 例2：閾値セルを使う（推奨）
+  `=COUNTIF(B2:B11, ">="&$B$1)`
+
+
+![w:800](./img/fig-10.png)
+
+---
+
+<!-- _class: no-footer -->
+
+# COUNTIF（条件で数える）
+
+**書式**：`=COUNTIF(範囲, 条件)`
+
+* 例3：文字一致（出席）
+  `=COUNTIF(C2:C11, "出席")`
+
+![w:800](./img/fig-11.png)
 
 ---
 
