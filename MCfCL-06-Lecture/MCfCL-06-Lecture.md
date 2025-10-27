@@ -205,7 +205,7 @@ footer: Middle class of Computer Literacy | T.Shimizu © 2025
 **書式**：`=COUNTIF(範囲, 条件)`
 
 * 例1：60点以上の人数
-  `=COUNTIF(B2:B11, ">=60")`
+  `=COUNTIF(B3:B10, ">=60")`
 
 ![w:800](./img/fig-09.png)
 
@@ -218,7 +218,7 @@ footer: Middle class of Computer Literacy | T.Shimizu © 2025
 **書式**：`=COUNTIF(範囲, 条件)`
 
 * 例2：閾値セルを使う（推奨）
-  `=COUNTIF(B2:B11, ">="&$B$1)`
+  `=COUNTIF(B3:B10, ">="&$B$1)`
 
 
 ![w:800](./img/fig-10.png)
@@ -232,7 +232,7 @@ footer: Middle class of Computer Literacy | T.Shimizu © 2025
 **書式**：`=COUNTIF(範囲, 条件)`
 
 * 例3：文字一致（出席）
-  `=COUNTIF(C2:C11, "出席")`
+  `=COUNTIF(C3:C10, "出席")`
 
 ![w:800](./img/fig-11.png)
 
