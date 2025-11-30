@@ -45,10 +45,6 @@ footer: Middle class of Computer Literacy | T.Shimizu © 2025
 
 ---
 
-
-
----
-
 # データ準備：表の約束
 
 * データの1行目は**見出し（ヘッダー）**、空白行は入れない
@@ -107,7 +103,7 @@ footer: Middle class of Computer Literacy | T.Shimizu © 2025
 
    * 所属部署（値／昇順）
    * 年齢（値／昇順（小さい順））
-   * 勤続年数（値／**降順**（大きい順）＿）
+   * 勤続年数（値／**降順**（大きい順））
 3. OK → 期待通りに並ぶか確認
 
 ---
