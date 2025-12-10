@@ -4,14 +4,13 @@ theme: mytheme
 class: lead
 paginate: true
 math: katex
-title: コンピュータリテラシ応用 第10回授業資料
-header: 第10回：データベースの利用：並べ替えとオートフィルター
+title: コンピュータリテラシ応用 第11回授業資料
+header: 第11回：表やグラフの貼り付け
 footer: Middle class of Computer Literacy | T.Shimizu © 2025
 ---
 
 # コンピュータリテラシ応用
-# 第10回：データベースの利用
-### 並べ替えとオートフィルター
+# 第11回：表やグラフの貼り付け
 
 情報学部 情報学科 情報メディア専攻
 清水 哲也 ( shimizu@info.shonan-it.ac.jp )
